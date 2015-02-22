@@ -1,5 +1,10 @@
+TEST STRING 
+==================================
+
 The Drupal JavaScript API Library
 ==================================
+
+TEST
 
 This library acts as an object oriented JavaScript wrapper around the
 Drupal services module ( http://drupal.org/project/services ).
